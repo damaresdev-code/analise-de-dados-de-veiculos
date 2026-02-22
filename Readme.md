@@ -1,9 +1,10 @@
-🚗 Car Price Analysis & Prediction
-📌 Sobre o Projeto
+🚗 **Projeto: Car Price Analysis & Prediction**
+ 
+📌 **Sobre o Projeto**
 
 Este projeto tem como objetivo analisar dados de veículos e construir um modelo de Machine Learning capaz de prever preços de carros com base em características como ano e quilometragem.
 
-🎯 Objetivos
+🎯 **Objetivos**
 
 Realizar Análise Exploratória de Dados (EDA)
 
@@ -13,7 +14,7 @@ Construir modelo de regressão para previsão de preços
 
 Avaliar desempenho do modelo
 
-🛠 Tecnologias Utilizadas
+🛠 **Tecnologias Utilizadas**
 
 Python
 
@@ -49,7 +50,7 @@ car-price-analysis/
 
 └── requirements.txt
 
-📊 Principais Análises
+📊 **Principais Análises**
 
 Preço médio por marca
 
@@ -57,7 +58,7 @@ Correlação entre variáveis
 
 Distribuição de preços
 
-🤖 Modelo de Machine Learning
+🤖 **Modelo de Machine Learning**
 
 Foi utilizado um modelo de Regressão Linear para prever o preço dos veículos.
 
@@ -65,6 +66,6 @@ Métrica utilizada:
 
 Mean Absolute Error (MAE)
 
-📈 Resultados
+📈 **Resultados**
 
 O modelo conseguiu prever preços com erro médio de aproximadamente: X (substituir pelo valor obtido).
