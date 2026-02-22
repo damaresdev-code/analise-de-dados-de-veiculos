@@ -25,6 +25,30 @@ Seaborn
 
 Scikit-Learn
 
+**Estrutura do projeto**
+
+car-price-analysis/
+
+│
+├── data/
+
+│   └── cars.csv
+
+│
+├── notebooks/
+
+│   └── analysis.ipynb
+│
+
+├── images/
+
+│   └── grafico_preco_marca.png
+│
+
+├── README.md
+
+└── requirements.txt
+
 📊 Principais Análises
 
 Preço médio por marca
